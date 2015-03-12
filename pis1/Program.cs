@@ -11,6 +11,7 @@ namespace pis1
         {
             Console.WriteLine("Hello Ana :) ");
             Console.WriteLine("Hello World");
+             Console.WriteLine("promjena");
             Console.Read();
         }
     }
